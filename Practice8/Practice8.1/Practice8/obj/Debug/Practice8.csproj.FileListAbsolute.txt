@@ -1,0 +1,14 @@
+D:\Programming\C#\Practice8\Practice8\bin\Debug\Practice8.exe.config
+D:\Programming\C#\Practice8\Practice8\bin\Debug\Practice8.exe
+D:\Programming\C#\Practice8\Practice8\bin\Debug\Practice8.pdb
+D:\Programming\C#\Practice8\Practice8\obj\Debug\Practice8.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Practice8\Practice8\obj\Debug\Practice8.exe
+D:\Programming\C#\Practice8\Practice8\obj\Debug\Practice8.pdb
+C:\Projects\C#\Practice8\Practice8.1\Practice8\obj\Debug\Practice8.csproj.AssemblyReference.cache
+C:\Projects\C#\Practice8\Practice8.1\Practice8\obj\Debug\Practice8.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\Practice8\Practice8.1\Practice8\obj\Debug\Practice8.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Practice8\Practice8.1\Practice8\obj\Debug\Practice8.exe
+C:\Projects\C#\Practice8\Practice8.1\Practice8\obj\Debug\Practice8.pdb
+C:\Projects\C#\Practice8\Practice8.1\Practice8\bin\Debug\Practice8.exe.config
+C:\Projects\C#\Practice8\Practice8.1\Practice8\bin\Debug\Practice8.exe
+C:\Projects\C#\Practice8\Practice8.1\Practice8\bin\Debug\Practice8.pdb
