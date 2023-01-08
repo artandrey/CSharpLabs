@@ -1,8 +1,0 @@
-C:\Projects\C#\Practice8\Practice8.2\bin\Debug\Practice8.2.exe.config
-C:\Projects\C#\Practice8\Practice8.2\bin\Debug\Practice8.2.exe
-C:\Projects\C#\Practice8\Practice8.2\bin\Debug\Practice8.2.pdb
-C:\Projects\C#\Practice8\Practice8.2\obj\Debug\Practice8.2.csproj.AssemblyReference.cache
-C:\Projects\C#\Practice8\Practice8.2\obj\Debug\Practice8.2.csproj.SuggestedBindingRedirects.cache
-C:\Projects\C#\Practice8\Practice8.2\obj\Debug\Practice8.2.csproj.CoreCompileInputs.cache
-C:\Projects\C#\Practice8\Practice8.2\obj\Debug\Practice8.2.exe
-C:\Projects\C#\Practice8\Practice8.2\obj\Debug\Practice8.2.pdb

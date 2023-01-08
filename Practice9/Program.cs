@@ -19,6 +19,8 @@ namespace Practice_9
             picture.AddNewShape(triangle);
             picture.AddNewShape(square);
             picture.AddNewShape(circle);
+            
+
 
             picture.Draw();
 

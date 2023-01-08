@@ -1,8 +1,0 @@
-C:\Projects\C#\Practice10\bin\Debug\Practice10.exe.config
-C:\Projects\C#\Practice10\bin\Debug\Practice10.exe
-C:\Projects\C#\Practice10\bin\Debug\Practice10.pdb
-C:\Projects\C#\Practice10\obj\Debug\Practice10.csproj.AssemblyReference.cache
-C:\Projects\C#\Practice10\obj\Debug\Practice10.csproj.SuggestedBindingRedirects.cache
-C:\Projects\C#\Practice10\obj\Debug\Practice10.csproj.CoreCompileInputs.cache
-C:\Projects\C#\Practice10\obj\Debug\Practice10.exe
-C:\Projects\C#\Practice10\obj\Debug\Practice10.pdb

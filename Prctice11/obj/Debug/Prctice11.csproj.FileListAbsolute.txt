@@ -1,8 +1,0 @@
-C:\Projects\C#\Prctice11\bin\Debug\Prctice11.exe.config
-C:\Projects\C#\Prctice11\bin\Debug\Prctice11.exe
-C:\Projects\C#\Prctice11\bin\Debug\Prctice11.pdb
-C:\Projects\C#\Prctice11\obj\Debug\Prctice11.csproj.AssemblyReference.cache
-C:\Projects\C#\Prctice11\obj\Debug\Prctice11.csproj.SuggestedBindingRedirects.cache
-C:\Projects\C#\Prctice11\obj\Debug\Prctice11.csproj.CoreCompileInputs.cache
-C:\Projects\C#\Prctice11\obj\Debug\Prctice11.exe
-C:\Projects\C#\Prctice11\obj\Debug\Prctice11.pdb
