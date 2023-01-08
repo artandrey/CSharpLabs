@@ -40,7 +40,7 @@ namespace Practice_9
 
         public int RemoveShape(double maxArea)
         {
-            return Collection.RemoveAll(shape => shape.GetArea() == maxArea);
+            return Collection.RemoveAll(shape => shape.GetArea() > maxArea);
         }
 
         [System.Runtime.CompilerServices.IndexerName("Shape")]
