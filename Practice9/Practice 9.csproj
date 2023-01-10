@@ -43,20 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circle.cs" />
-    <Compile Include="ColorPallete.cs" />
-    <Compile Include="Triangle.cs" />
-    <Compile Include="Randomise.cs" />
-    <Compile Include="Square.cs" />
-    <Compile Include="IDraw.cs" />
-    <Compile Include="Painter.cs" />
-    <Compile Include="Picture.cs" />
-    <Compile Include="Shape.cs" />
+    <Compile Include="Models\Circle.cs" />
+    <Compile Include="Models\ColorPallete.cs" />
+    <Compile Include="Models\Triangle.cs" />
+    <Compile Include="util\Randomise.cs" />
+    <Compile Include="Models\Square.cs" />
+    <Compile Include="Iterfaces\IDraw.cs" />
+    <Compile Include="Controllers\Painter.cs" />
+    <Compile Include="Models\Picture.cs" />
+    <Compile Include="Models\Shape.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
