@@ -1,0 +1,15 @@
+D:\Programming\C#\Practice4\Practice4\bin\Debug\Practice4.exe.config
+D:\Programming\C#\Practice4\Practice4\bin\Debug\Practice4.exe
+D:\Programming\C#\Practice4\Practice4\bin\Debug\Practice4.pdb
+D:\Programming\C#\Practice4\Practice4\obj\Debug\Practice4.csproj.AssemblyReference.cache
+D:\Programming\C#\Practice4\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Practice4\Practice4\obj\Debug\Practice4.exe
+D:\Programming\C#\Practice4\Practice4\obj\Debug\Practice4.pdb
+C:\Projects\C#\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Projects\C#\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Projects\C#\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Projects\C#\Practice4\Practice4\obj\Debug\Practice4.csproj.AssemblyReference.cache
+C:\Projects\C#\Practice4\Practice4\obj\Debug\Practice4.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\Practice4\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Projects\C#\Practice4\Practice4\obj\Debug\Practice4.pdb

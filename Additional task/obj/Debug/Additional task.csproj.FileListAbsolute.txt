@@ -1,0 +1,8 @@
+C:\Projects\C#\Additional task\bin\Debug\Additional task.exe.config
+C:\Projects\C#\Additional task\bin\Debug\Additional task.exe
+C:\Projects\C#\Additional task\bin\Debug\Additional task.pdb
+C:\Projects\C#\Additional task\obj\Debug\Additional task.csproj.AssemblyReference.cache
+C:\Projects\C#\Additional task\obj\Debug\Additional task.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\Additional task\obj\Debug\Additional task.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Additional task\obj\Debug\Additional task.exe
+C:\Projects\C#\Additional task\obj\Debug\Additional task.pdb

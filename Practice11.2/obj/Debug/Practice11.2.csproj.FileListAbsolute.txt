@@ -1,0 +1,8 @@
+C:\Projects\C#\Practice11.2\bin\Debug\Practice11.2.exe.config
+C:\Projects\C#\Practice11.2\bin\Debug\Practice11.2.exe
+C:\Projects\C#\Practice11.2\bin\Debug\Practice11.2.pdb
+C:\Projects\C#\Practice11.2\obj\Debug\Practice11.2.csproj.AssemblyReference.cache
+C:\Projects\C#\Practice11.2\obj\Debug\Practice11.2.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\Practice11.2\obj\Debug\Practice11.2.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Practice11.2\obj\Debug\Practice11.2.exe
+C:\Projects\C#\Practice11.2\obj\Debug\Practice11.2.pdb
